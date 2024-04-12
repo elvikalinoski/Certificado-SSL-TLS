@@ -1,5 +1,4 @@
 # Certificado SSL TLS
-![image](https://github.com/elvikalinoski/Certificado-SSL-TLS/assets/19480157/18811aaa-97dd-4697-82e0-6644042cabe0)
 
 Este documento tem por finalidade exclarer um pouco sobre o tema certificados SSL/TLS.
 
@@ -8,6 +7,17 @@ Este documento tem por finalidade exclarer um pouco sobre o tema certificados SS
 * Como criar?
 * Como usar?
 
+~~~javascript
+Esta é uma linha de código em Javascript.
+~~~
+
+~~~php
+Esta é uma linha de código em PHP.
+~~~
+
+~~~html
+Esta é uma linha de código em HTML.
+~~~
 
 # O que é? 
 
